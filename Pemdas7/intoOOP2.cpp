@@ -8,4 +8,9 @@ private:
 	float panjang, lebar;
 public:
 	float Luas;
+
+	void input() { // metode input persegi panjang
+	
+		cout << "Masukan Panjangnya = ";
+	}
 };
