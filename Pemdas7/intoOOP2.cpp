@@ -12,5 +12,6 @@ public:
 	void input() { // metode input persegi panjang
 	
 		cout << "Masukan Panjangnya = ";
+		cin >> panjang;
 	}
 };
